@@ -1,5 +1,5 @@
 # Openbox Themes Repository
-This repository contains a collection of Openbox themes created by git@github.com:terroo.
+This repository contains a collection of Openbox themes created by https://github.com/terroo.
 
 ## Usage
 To use these themes, you will need to have Openbox installed on your system. You can install Openbox using your distribution's package manager.
